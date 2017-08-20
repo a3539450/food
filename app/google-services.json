@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "237352585794",
+    "firebase_url": "https://food-e6630.firebaseio.com",
+    "project_id": "food-e6630",
+    "storage_bucket": "food-e6630.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237352585794:android:1b4d630a93e43168",
+        "android_client_info": {
+          "package_name": "tw.foodmap.food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237352585794-t5b9fu1tuokgg69e82emta8l04m5nid0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tw.foodmap.food",
+            "certificate_hash": "7580fe4989eab8ef6e469da70950d36870e2f2c3"
+          }
+        },
+        {
+          "client_id": "237352585794-n40f6la39g45tr2vuf6ndel6b3b0l4j0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxVgy2uXlHAyMzITZ393cMxCE20120k3Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237352585794-n40f6la39g45tr2vuf6ndel6b3b0l4j0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
